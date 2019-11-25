@@ -1,0 +1,11 @@
+This part we learn firebase realtime notification 
+------------------------------------------------------------------------------------------------------
+1.Create Firebase Connection
+2.Integrate Firebase into laravel
+3.Install brozot/laravel-fcm
+4.Send message testing in console
+5.Create table (notifications) store notification
+6.Create device_token in table users and customer
+7.Add device_token into form login (customer, and users)
+---------------------------------------------------------------------
+Note (customer send message to seller when order product)
